@@ -1,0 +1,12 @@
+{
+  "company_domain": "buyer.example",
+  "name": "Alex Example",
+  "title": "Head of Procurement",
+  "role_rank": 1,
+  "profile_url": "https://buyer.example/team/alex",
+  "work_email": "alex@buyer.example",
+  "email_status": "confirmed_on_source",
+  "work_phone": "+00 000 000 0000",
+  "phone_status": "confirmed_on_source",
+  "notes": "Replace with public professional details and their source status."
+}

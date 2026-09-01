@@ -1,0 +1,21 @@
+{
+  "name": "Example Home GmbH",
+  "website": "https://buyer.example",
+  "country": "Germany",
+  "customer_type": "importer",
+  "fit_score": 80,
+  "fit_status": "qualified",
+  "score_breakdown": {
+    "product_relevance": 24,
+    "customer_role": 16,
+    "geography": 10,
+    "commercial_readiness": 12,
+    "recent_activity": 10,
+    "evidence_strength": 8
+  },
+  "status": "researched",
+  "summary": "Replace with a sourced company summary.",
+  "risks": [],
+  "unknowns": ["Annual purchasing volume"],
+  "last_researched_at": "2026-08-31"
+}

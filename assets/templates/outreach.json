@@ -1,0 +1,19 @@
+{
+  "company_domain": "buyer.example",
+  "contact_id": 1,
+  "contact_label": "Alex Example | Head of Procurement",
+  "mode": "first_touch",
+  "channel": "email",
+  "company_size": "medium",
+  "route_confidence": "high",
+  "status": "draft",
+  "subject": "Local-size four-piece bedding set options",
+  "message": "Replace with a short draft based on verified evidence and supplier facts.",
+  "evidence_refs": [
+    "https://buyer.example/products"
+  ],
+  "cta": "Confirm the right category contact or exchange target specifications.",
+  "next_action": "Human review before any external use.",
+  "due_date": "2026-09-08",
+  "notes": "No message has been sent."
+}

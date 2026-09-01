@@ -1,0 +1,32 @@
+{
+  "name": "EU Bedding Importers - September",
+  "campaign_type": "prospecting",
+  "objective": "Validate category ownership and exchange target specifications.",
+  "audience_segments": [
+    "Germany | importer | procurement | qualified"
+  ],
+  "target_languages": [
+    "English",
+    "German"
+  ],
+  "status": "draft",
+  "subject_variants": [
+    "Local-size bedding set options for {company}"
+  ],
+  "content_brief": "One verified company observation, one supplier value and one low-friction CTA.",
+  "suppression_rules": [
+    "opted_out",
+    "hard_bounce",
+    "complaint",
+    "pattern_inferred",
+    "duplicate"
+  ],
+  "success_metrics": [
+    "delivered",
+    "positive_reply",
+    "meeting",
+    "unsubscribe"
+  ],
+  "planned_start": "2026-09-15",
+  "notes": "Planning record only; approved does not send."
+}

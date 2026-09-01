@@ -1,0 +1,13 @@
+{
+  "name": "Example Bedding Brand",
+  "website": "https://competitor.example",
+  "country": "United States",
+  "market_position": "mid-market",
+  "product_scope": "four-piece bedding sets",
+  "price_position": "Replace with observed price range and date.",
+  "materials": ["cotton"],
+  "specifications": ["local-size assortment"],
+  "demand_signals": ["neutral colours"],
+  "differentiation": ["certified material line"],
+  "last_researched_at": "2026-08-31"
+}

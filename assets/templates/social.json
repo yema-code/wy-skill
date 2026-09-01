@@ -1,0 +1,11 @@
+{
+  "entity_type": "company",
+  "entity_key": "buyer.example",
+  "platform": "linkedin",
+  "profile_url": "https://www.linkedin.com/company/example",
+  "verification_status": "official_linked",
+  "activity_status": "not_checked",
+  "audience_notes": "Use only public company-account observations.",
+  "content_signals": [],
+  "last_checked_at": "2026-08-31"
+}

@@ -1,0 +1,11 @@
+{
+  "entity_type": "company",
+  "entity_key": "buyer.example",
+  "field": "products",
+  "claim": "Replace with one narrowly supported factual claim.",
+  "source_url": "https://buyer.example/products",
+  "source_title": "Example Product Page",
+  "source_type": "official",
+  "confidence": "high",
+  "observed_at": "2026-08-31"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "Example Textile Manufacturer",
+  "company_website": "https://supplier.example",
+  "sender_name": "Alex Example",
+  "sender_title": "Export Manager",
+  "products": [
+    "four-piece bedding sets"
+  ],
+  "applications": [
+    "retail",
+    "hospitality"
+  ],
+  "target_markets": [
+    "Germany",
+    "United States",
+    "South Africa"
+  ],
+  "verified_strengths": [],
+  "certifications": [],
+  "moq": "To be confirmed",
+  "lead_time": "To be confirmed",
+  "price_boundaries": "Internal only; confirm before external use.",
+  "case_studies_allowed": [],
+  "preferred_languages": [
+    "English"
+  ],
+  "default_cta": "Exchange target specifications or confirm the responsible buyer.",
+  "forbidden_claims": [
+    "Unverified certifications",
+    "Unconfirmed stock or delivery promises"
+  ]
+}

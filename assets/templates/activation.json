@@ -1,0 +1,17 @@
+{
+  "company_domain": "buyer.example",
+  "contact_id": 1,
+  "contact_label": "Alex Example | Head of Procurement",
+  "lifecycle_stage": "quoted",
+  "status": "waiting",
+  "priority": 1,
+  "channel": "email",
+  "last_outbound_at": "2026-09-01",
+  "last_reply_at": "2026-08-28",
+  "followup_count": 1,
+  "max_followups": 3,
+  "activation_after_days": 5,
+  "next_due_date": "2026-09-06",
+  "next_action": "Add one new pricing or specification clarification for review.",
+  "notes": "No automatic message sending."
+}

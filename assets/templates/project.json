@@ -1,0 +1,10 @@
+{
+  "project_name": "Bedding Sets EU-US-Africa",
+  "product": "four-piece bedding sets",
+  "countries": ["Germany", "United States", "South Africa"],
+  "customer_types": ["importer", "wholesaler", "retail chain"],
+  "exclusions": ["consumer", "marketplace-only seller"],
+  "stage": "prepare",
+  "qualify_threshold": 80,
+  "notes": "Replace sample values with verified project requirements."
+}

@@ -1,0 +1,20 @@
+{
+  "source_platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@example/video/0000000000000000000",
+  "observed_at": "2026-09-01",
+  "account_handle": "@examplebuyer",
+  "company_name_claimed": "Example Buyer Ltd",
+  "company_website_claimed": "https://buyer.example",
+  "country_claimed": "Germany",
+  "contact_name_claimed": "Alex Example",
+  "role_claimed": "Buyer",
+  "product_interest": "four-piece bedding sets",
+  "use_case": "retail assortment",
+  "quantity_or_moq": "To be clarified",
+  "target_timing": "To be clarified",
+  "preferred_business_channel": "company email",
+  "preliminary_grade": "B",
+  "verification_status": "unverified",
+  "next_question": "Please share your company website and target specifications.",
+  "notes": "Claimed information must be verified before CRM qualification."
+}
