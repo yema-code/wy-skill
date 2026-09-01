@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "外贸 B2B 找客户、开发信、客户激活、背调、Campaign 与 CRM 工作台。",
   "tags": [
+    "wy",
+    "外贸",
+    "外贸获客",
+    "外贸客户开发",
     "b2b",
     "lead-generation",
     "outreach",
@@ -11,6 +15,8 @@
     "crm"
   ],
   "trigger_keywords": [
+    "wy",
+    "外贸",
     "@wy",
     "$wy",
     "外贸获客",
