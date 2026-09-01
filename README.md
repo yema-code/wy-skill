@@ -5,6 +5,16 @@
 <img width="1382" height="1382" alt="ca81b2fa08ac38918e282b8ea3965dd5" src="https://github.com/user-attachments/assets/31244652-d0f9-4da3-ab05-a617df50fef1" />
 
 
+### 📦 直接下载
+
+推荐使用 GitHub Release 安装包，避免源码页的 “Download ZIP” 多包一层仓库目录：
+
+* [下载 WY SkillHub v1.0.0](https://github.com/yema-code/wy-skill/releases/download/v1.0.0/wy-skillhub-v1.0.0.zip)
+* [下载 SHA-256 校验文件](https://github.com/yema-code/wy-skill/releases/download/v1.0.0/SHA256SUMS.txt)
+* SHA-256：`ca69173c2d447534525eadb358890930086bf8155270fd544fa65ca44c312b55`
+
+支持 ZIP 导入的平台可直接选择安装包；如果平台要求选择目录，解压后导入完整的 `wy/` 文件夹。
+
 ### 🎯 核心功能
 
 * **找客户 (Lead Generation)**：分析目标市场，挖掘潜在 B2B 买家特征及渠道。
