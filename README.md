@@ -1,8 +1,8 @@
-### WY Skill - 外贸 B2B 智能获客助手
+<img width="1382" height="1382" alt="4a11943a208b5b3503a67508604f7115" src="https://github.com/user-attachments/assets/2cf47e8a-6aa8-48fe-b5a1-d17bc019e7d0" />### WY Skill - 外贸 B2B 智能获客助手
 
 这是一个专为外贸 B2B 场景打造的个人 AI 技能包（Skill），旨在辅助外贸业务员高效完成客户开发与跟进的全生命周期管理。 
 
-![Uploading 4a11943a208b5b3503a67508604f7115.png…]()
+<img width="1382" height="1382" alt="ca81b2fa08ac38918e282b8ea3965dd5" src="https://github.com/user-attachments/assets/31244652-d0f9-4da3-ab05-a617df50fef1" />
 
 
 ### 🎯 核心功能
