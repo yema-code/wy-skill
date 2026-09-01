@@ -1,0 +1,29 @@
+{
+  "name": "WY 外贸客户开发系统",
+  "slug": "wy",
+  "version": "1.0.0",
+  "description": "外贸 B2B 找客户、开发信、客户激活、背调、Campaign 与 CRM 工作台。",
+  "tags": [
+    "b2b",
+    "lead-generation",
+    "outreach",
+    "due-diligence",
+    "crm"
+  ],
+  "trigger_keywords": [
+    "@wy",
+    "$wy",
+    "外贸获客",
+    "找客户",
+    "开发信",
+    "客户激活",
+    "客户背调",
+    "邮件 Campaign",
+    "CRM"
+  ],
+  "language": "zh-CN",
+  "outputs": "markdown",
+  "requires_api": false,
+  "readiness": "stable",
+  "type": "descriptive"
+}

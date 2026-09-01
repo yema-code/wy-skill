@@ -1,0 +1,13 @@
+{
+  "name": "wy",
+  "version": "1.0.0",
+  "description": "外贸 B2B 找客户、开发信、客户激活、背调、Campaign 与 CRM 工作台。",
+  "category": "Business",
+  "tags": [
+    "b2b",
+    "crm",
+    "outreach",
+    "tiktok"
+  ],
+  "visibility": "private"
+}
