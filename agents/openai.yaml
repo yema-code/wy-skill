@@ -1,0 +1,6 @@
+interface:
+  display_name: "WY 外贸客户开发"
+  short_description: "找客户、开发信、客户激活、背调与 Campaign 工作台"
+  default_prompt: "使用 $wy 打开外贸客户开发工作台，并根据我的当前阶段推荐下一步。"
+policy:
+  allow_implicit_invocation: true
